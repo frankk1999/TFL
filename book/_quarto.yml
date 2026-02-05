@@ -18,8 +18,6 @@ website:
           text: Introduction
         - text: "---"
         - auto: tables
-        - auto: listings
-        - auto: graphs
         - text: "---"
         - text: |
             <div class="sidebar-author">
